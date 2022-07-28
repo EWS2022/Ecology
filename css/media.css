@@ -146,4 +146,8 @@
         text-align: center;
         font-size: 12px;
     }
+    
+    h2{
+        line-height: 40px;
+    }
 }
