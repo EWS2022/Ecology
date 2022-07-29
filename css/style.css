@@ -347,3 +347,23 @@ input:nth-child(2){
     position: relative;
     bottom: 3px;
 }
+
+footer{
+    background-color: white;
+    color: #a0b9ff;
+}
+
+footer .container{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+footer .container p{
+    font-weight: 500;
+}
+
+footer .container img{
+    width: 7%;
+    margin: 20px 0;
+}
